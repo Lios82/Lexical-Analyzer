@@ -1,0 +1,14 @@
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.exe.config
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.exe
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.pdb
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.csprojResolveAssemblyReference.cache
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Lexical Analyzer\Lexical Analyzer\obj\Debug\App.g.cs
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer_MarkupCompile.cache
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer_MarkupCompile.lref
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.g.resources
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical_Analyzer.Properties.Resources.resources
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.csproj.GenerateResource.Cache
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.exe
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.pdb
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Lexical Analyzer\Lexical Analyzer\obj\Debug\View\MainWindow.g.cs
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Lexical Analyzer\Lexical Analyzer\obj\Debug\View\MainWindow.baml
