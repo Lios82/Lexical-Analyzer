@@ -1,0 +1,2 @@
+# Lexical-Analyzer
+During the course Compiler Design, I was required to develop this project, Lexical Analyzer. The main challenge of this project was to split entire codes from file into tokens and check it's syntax errors. By doing this I was just experiencing how exactly a code compiler executes it's initial operations and proceed next. This project was developed in C# WPF by using file processing approach. 
